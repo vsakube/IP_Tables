@@ -12,4 +12,5 @@ Docker, a popular containerization platform, leverages several Linux features to
 8.  Seccomp (Secure Computing Mode): Docker can leverage seccomp to restrict the system calls available to containers, reducing their attack surface and improving security.
 9. AppArmor and SELinux: Docker can be integrated with security frameworks like AppArmor and SELinux to provide additional container isolation and protection.
 10. Kernel Support: Docker requires a Linux kernel with specific features and configurations to run efficiently. Some essential kernel features include namespaces, cgroups, and other container-related features.
-11. These Linux features play a crucial role in Docker's ability to create, manage, and isolate containers, providing a lightweight and efficient solution for packaging and distributing applications in a portable manner.
+
+These Linux features play a crucial role in Docker's ability to create, manage, and isolate containers, providing a lightweight and efficient solution for packaging and distributing applications in a portable manner.
